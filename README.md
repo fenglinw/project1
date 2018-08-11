@@ -1,4 +1,3 @@
 # project1
+Project 1 is our first project of unit313 in Deakin University. It is an android mobile app project about recording traveller memories. Users can use this app to memory their tours. There are details about files information.
 
-project 1 is our first project of unit Sit313 in Deakin University. 
-this project called "Traveller Map"
