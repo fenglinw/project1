@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#dedede"
+    android:id="@+id/relativeLayout">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/backGuide" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/abc_action_bar_subtitle_bottom_margin_material"
+        android:gravity="center"
+        android:layout_marginRight="0.0dp">
+        <TextView
+            android:text="@string/guide2"
+            android:textColor="#ff0b1823"
+            android:textSize="10sp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:gravity="left"
+            android:layout_marginLeft="@dimen/abc_dialog_min_width_major" />
+    </LinearLayout>
+</RelativeLayout>
