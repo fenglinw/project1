@@ -7,3 +7,7 @@ it is an activity showed when users click the scenery point.
  
 Main.axml 
 it is the main activity ofthis app.
+
+ 
+backGuide.xml 
+it is a background view with guide2.axml.
