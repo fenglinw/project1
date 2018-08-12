@@ -6,13 +6,33 @@
     <string name="china">China</string>
     <string name="Can">Canberra</string>
     <string name="Tokyo">Tokyo</string>
-    <string name="guide2">China, officially the People's Republic of China (PRC), is a unitary one-party 
-        sovereign state in East Asia and the world's most populous country, with a population of around
-        1.404 billion.[13] Covering approximately 9,600,000 square kilometers(3,700,000 sq mi), 
-
-
-    it is the third- or fourth-largest country by total area,[k][19] depending on the source consulted. 
-    Governed by the Communist Party of China, the state exercises jurisdiction over 22 provinces,five autonomous
-    regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing),and the special 
-    administrative regions of Hong Kong and Macau.</string>
+    <string name="content3">Brief Introduction to China
+        Location The People Republic of China is situated in eastern
+        Asia on the western shore of the Pacific Ocean, with 
+        an area of 9.6 million square kilometers. China's 
+        continental coastline extends for about 18,000 kilometers, 
+        and its vast sea surface is studded with more than 5,000 
+        islands, of which Taiwan and Hainan are the largest.</string>
+    
+    <string name="content1">Melbourne City Centre (also 
+         known colloquially as simply 
+        "The City" or "The CBD") 
+        is an area of Melbourne, Victoria, Australia.
+         It is the area in which Melbourne was established 
+        in 1835, by John Batman and
+         John Pascoe Fawkner, and 
+         its boundaries are defined by the Government
+        of Victoria's Melbourne Planning Scheme.</string>
+    
+    <string name="content2">Sydney ((About this sound listen)) is 
+        the state capital of New South Wales and the most
+         populous city in Australia and Oceania. Located 
+        on Australia's east coast, the metropolis surrounds
+        Port Jackson and sprawls about 70 km (43.5 mi) on 
+        its periphery towards the Blue Mountains to the west, 
+         Hawkesbury to the north, and Macarthur to the south.
+         Sydney is made up of 658 suburbs, 40 local government areas and
+         15 contiguous regions. Residents of the city 
+         are known as "Sydneysiders". As of June 2017, 
+         Sydney's estimated population was 5,131,326.</string>
 </resources>
