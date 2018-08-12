@@ -3,3 +3,7 @@ Project 1 is our first project of unit313 in Deakin University. It is an android
 
 Guide2.axml:
 it is an activity showed when users click the scenery point.
+
+ 
+Main.axml 
+it is the main activity ofthis app.
