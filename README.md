@@ -15,3 +15,6 @@ it is a background view with guide2.axml.
  
 background.xml 
 it is the background view with Main.axml.
+
+string.xml 
+it is the string information that i changed with id property.
