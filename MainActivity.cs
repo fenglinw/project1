@@ -38,7 +38,7 @@ namespace Travaller_Map
 			
 			
 			//load the third responce page when click the button1
-			button3.Click += delegate{
+			button_3.Click += delegate{
 			Intent intent = new Intent(this,typeof(forthActivity));
 			StartActivity(intent)
 			}
