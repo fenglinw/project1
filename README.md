@@ -11,3 +11,7 @@ it is the main activity ofthis app.
  
 backGuide.xml 
 it is a background view with guide2.axml.
+
+ 
+background.xml 
+it is the background view with Main.axml.
