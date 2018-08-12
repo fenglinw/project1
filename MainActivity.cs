@@ -25,13 +25,13 @@ namespace Travaller_Map
 			Button button_3 = FindViewByID<Button>(Resource.Id.button3);
 			
 			//load the first responce page when click the button1
-			button.Click += delegate{
+			button_1.Click += delegate{
 			Intent intent = new Intent(this,typeof(secondActivity));
 			StartActivity(intent)
 			}
 			
 			//load the second responce page when click the button1
-			button_1.Click += delegate{
+			button_2.Click += delegate{
 			Intent intent = new Intent(this,typeof(thirdActivity));
 			StartActivity(intent)
 			}
