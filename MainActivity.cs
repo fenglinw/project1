@@ -22,27 +22,27 @@ namespace Travaller_Map
 			SetContentView(Resource.Layout.activity_main);
 			
 			//gei the three button to access other activities.
-			Button button_1 = FindViewByID<Button>(Resource.Id.button1);
-			Button button_2 = FindViewByID<Button>(Resource.Id.button2);
-			Button button_3 = FindViewByID<Button>(Resource.Id.button3);
+			Button button_1 = FindViewById<Button>(Resource.Id.button1);
+			Button button_2 = FindViewById<Button>(Resource.Id.button2);
+			Button button_3 = FindViewById<Button>(Resource.Id.button3);
 			
 			//load the first responce page when click the button1
 			button_1.Click += delegate{
 			Intent intent = new Intent(this,typeof(secondActivity));
-			StartActivity(intent)
+			StartActivity(intent);
 			}
 			
-			//load the second responce page when click the button1
+			//load the second responce page when click the button2
 			button_2.Click += delegate{
 			Intent intent = new Intent(this,typeof(thirdActivity));
-			StartActivity(intent)
+			StartActivity(intent);
 			}
 			
 			
-			//load the third responce page when click the button1
+			//load the third responce page when click the button3
 			button_3.Click += delegate{
 			Intent intent = new Intent(this,typeof(forthActivity));
-			StartActivity(intent)
+			StartActivity(intent);
 			}
 		
 	}
